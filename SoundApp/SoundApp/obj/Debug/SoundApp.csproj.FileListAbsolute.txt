@@ -1,0 +1,14 @@
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\bin\Debug\SoundApp.exe.config
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\bin\Debug\SoundApp.exe
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\bin\Debug\SoundApp.pdb
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\obj\Debug\SoundApp.csprojAssemblyReference.cache
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\obj\Debug\SoundApp.csproj.CoreCompileInputs.cache
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\obj\Debug\SoundApp.exe
+c:\users\баракпаево\source\repos\SoundApp\SoundApp\obj\Debug\SoundApp.pdb
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\bin\Debug\SoundApp.exe.config
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\bin\Debug\SoundApp.exe
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\bin\Debug\SoundApp.pdb
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\obj\Debug\SoundApp.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\obj\Debug\SoundApp.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\obj\Debug\SoundApp.exe
+C:\Users\КалиаскарР\Desktop\SoundApp\SoundApp\obj\Debug\SoundApp.pdb
